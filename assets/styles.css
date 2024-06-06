@@ -1,0 +1,25 @@
+img {
+    height: 200px;
+}
+
+.card{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.m-5 {
+  
+    padding-left: 0cm;
+    padding-right: 20cm;
+    
+}
+
+body {
+    background-color: aquamarine;
+    background-image: url(/assets/9fc1e655341e521c81133aa3f538fcb8.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
